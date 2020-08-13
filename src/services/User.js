@@ -1,5 +1,4 @@
 import axios from 'axios'
-// import FormData from 'formdata-node'
 
 const fetchUsers = async () => {
   const { data } = await axios.get('http://localhost:3000/api/users')
@@ -35,11 +34,9 @@ const del = async (userID) => {
 const serverUpload = (photoFile, user) => {
   const formData = new FormData() // eslint-disable-line
   formData.append('photoFile', photoFile)
-  console.log(' Формируем photo File в Uploads :    ', photoFile)
   if (user._id) {
     formData.append('userID', user._id)
   }
-  console.log(' Делаем POST photo File в http://localhost:3000/uploads ', user)
   return axios.post('http://localhost:3000/uploads',
     formData,
     {
