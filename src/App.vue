@@ -45,7 +45,6 @@ export default {
     },
     async edit (user) {
       this.user = await getUser(user._id) 
-      // this.fetchUsers();
     },
     createNew() {
         this.user = { };
