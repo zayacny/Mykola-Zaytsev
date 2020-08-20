@@ -1,7 +1,7 @@
 # userTable 
-![illustration](/screen_1.png)
-![illustration](https://raw.githubusercontent.com/zayacny/userTable-frontend/edit/master/screen_2.png)
-![illustration](https://raw.githubusercontent.com/zayacny/userTable-frontend/edit/master/screen_3.png)
+![illustration](/screen_1.png =300x100)
+![illustration](/screen_2.png =300x100)
+![illustration](/screen_3.png =300x100)
 
 ## Project setup
 ```
