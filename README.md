@@ -1,8 +1,8 @@
 # userTable 
 <p>
-<img src="screenshots/screen_1.png" width="33%" height="auto" />
-<img src="screenshots/screen_2.png" width="33%" height="auto" />
-<img src="screenshots/screen_3.png" width="33%" height="auto" />
+<img src="screenshots/screen_1.png" width="31%" height="auto" />
+<img src="screenshots/screen_2.png" width="31%" height="auto" />
+<img src="screenshots/screen_3.png" width="31%" height="auto" />
 </p>
 
 ## Project setup
