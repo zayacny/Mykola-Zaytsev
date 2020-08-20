@@ -1,4 +1,7 @@
-# userTable
+# userTable 
+![illustration](https://github.com/zayacny/userTable-frontend/edit/master/screen_1.png)
+![illustration](https://github.com/zayacny/userTable-frontend/edit/master/screen_2.png)
+![illustration](https://github.com/zayacny/userTable-frontend/edit/master/screen_3.png)
 
 ## Project setup
 ```
