@@ -1,4 +1,6 @@
 # userTable 
+Simple application for administrator or else. Have a one page and one modal window - userform. Possible Create, edit exists user record or delete it. Also you can load(or update) a user photo.
+I used : Node.js+Express,Vue+Bootstrap, Mongoose+MongoDB. 
 <p>
 <img src="screenshots/screen_1.png" width="31%" height="auto" />
 <img src="screenshots/screen_2.png" width="31%" height="auto" />
@@ -15,15 +17,4 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
